@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Swypyy 👋
 
-<!--
-**swypyy/swypyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at the beginning of my coding journey, learning how to build websites and make them my own.
 
-Here are some ideas to get you started:
+## My learning journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I made my first GitHub Pages website with help from AI. Now I’m learning how the code works so I can create, customize, and improve websites independently. I’m starting with the fundamentals and building my skills one step at a time.
+
+## What I’m working toward
+
+- Learning the basics of building websites
+- Understanding and improving my GitHub Pages site
+- Creating projects myself and sharing what I learn
+
+## My website
+
+🌐 [Visit my GitHub Pages site](https://swypyy.github.io/)
+
+I’m just getting started, so this profile will grow as I learn. Thanks for stopping by!
